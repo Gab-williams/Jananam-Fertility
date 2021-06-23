@@ -1013,6 +1013,28 @@ picture img {
   display: flex;
   align-items: center;
   transition: transform 0.2s ease;
+  background-color: #ff8400;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
+
+.bttn-main {
+  display: flex;
+  background-color: #134a83;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
 }
 
 @media (min-width: 1024px) {
