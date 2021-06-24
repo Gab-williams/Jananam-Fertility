@@ -1021,7 +1021,7 @@ picture img {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  border-radius: 12px;
+  border-radius: 0px;
 }
 
 .bttn-main {
@@ -1034,7 +1034,7 @@ picture img {
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
-  border-radius: 12px;
+  border-radius: 0px;
 }
 
 @media (min-width: 1024px) {
@@ -5254,7 +5254,7 @@ picture img {
   width: 32.9rem;
   padding: 4rem;
   background-color: #fff;
-  box-shadow: 0 0 5rem rgba(140, 12, 4, 0.16);
+  box-shadow: 0 0 5rem rgba(140, 92, 4, 0.16);
   opacity: 0;
   transition: right 0s ease 0.3s, opacity 0.3s ease;
 }
