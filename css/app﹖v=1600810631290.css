@@ -4615,7 +4615,7 @@ picture img {
 
 @media (max-width: 767px) {
   .items-pink-svg._services .items-pink-svg__content {
-    margin: 16rem 0 3rem;
+    margin: 3rem 0 3rem;
   }
 }
 
