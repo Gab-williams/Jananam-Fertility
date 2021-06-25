@@ -708,8 +708,8 @@ picture img {
 
 @media (max-width: 767px) {
   .header__inner .logo svg {
-    width: 7.5rem;
-    height: 4.2rem;
+    width: 10.5rem;
+    height: 5.2rem;
   }
 }
 
@@ -6512,4 +6512,20 @@ a.portfolio-link {
   text-align: center;
 }
 
-/*--------------------------------------------------------
+/*--------------------------------------------------------*/
+
+section {
+  width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  background-color: #134a83;
+  height: 30vh;
+}
+
+.content {
+  display: table-cell;
+  vertical-align: middle;
+  color: white;
+}
