@@ -3559,7 +3559,7 @@ picture img {
 .page-head {
   position: relative;
   min-height: 50.8rem;
-  margin-bottom: 11.7rem;
+  margin-bottom: -5.7rem;
   padding-top: 20rem;
   padding-bottom: 9.3rem;
   background-color: #ffffff;
