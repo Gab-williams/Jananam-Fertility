@@ -5859,7 +5859,7 @@ picture img {
   z-index: 13;
   width: 100%;
   height: 100%;
-  background-color: #661c17;
+  background-color: #ffffff;
   transform: scaleY(0);
   transform-origin: bottom;
 }
