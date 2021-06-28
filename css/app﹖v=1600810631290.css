@@ -6526,7 +6526,7 @@ a.portfolio-link {
 }
 
 /*--------------------------Team------------------------------*/
-
+/* 
 .team {
   margin: 50px;
   padding-top: 150px;
@@ -6600,7 +6600,7 @@ a.portfolio-link {
   background: #134a83;
   /* Primary color, can be changed via colors.css */
 
-  height: 100%;
+  /* height: 100%;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
@@ -6633,6 +6633,6 @@ a.portfolio-link {
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
-}
+} */ */
 
 /* =================================================================*/
