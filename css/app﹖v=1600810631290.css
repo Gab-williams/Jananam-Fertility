@@ -3704,7 +3704,7 @@ picture img {
 
 @media (max-width: 767px) {
   .page-head._with-svg._svg-mobile-bottom {
-    padding-bottom: 23.6rem;
+    padding-bottom: 2.6rem;
   }
 }
 
@@ -6508,10 +6508,9 @@ a.portfolio-link {
   display: block;
   text-align: center;
 }
+/*_________________________CTA_______________________________________*/
 
-/*--------------------------------------------------------*/
-
-section {
+.callto {
   width: 100%;
   padding: 0 7%;
   display: table;
@@ -6520,14 +6519,13 @@ section {
   background-color: #134a83;
   height: 30vh;
 }
-
 .content {
   display: table-cell;
   vertical-align: middle;
   color: white;
 }
 
-/*--------------------------------------------------------*/
+/*--------------------------Team------------------------------*/
 
 .team {
   margin: 50px;
@@ -6636,3 +6634,5 @@ section {
   -o-transition: all 0.4s ease-in-out;
   transition: all 0.4s ease-in-out;
 }
+
+/* =================================================================*/
