@@ -5136,7 +5136,7 @@ picture img {
 @media (max-width: 767px) {
   .contacts__row {
     flex-direction: column-reverse;
-    margin-top: 4rem;
+    margin-top: 1rem;
   }
 }
 
@@ -5147,7 +5147,7 @@ picture img {
 @media (max-width: 767px) {
   .contacts__col {
     width: 100%;
-    margin-bottom: 4rem;
+    margin-bottom: 1rem;
   }
 }
 
