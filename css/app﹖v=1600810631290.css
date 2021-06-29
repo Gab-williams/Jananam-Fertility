@@ -4547,7 +4547,7 @@ picture img {
     max-width: none;
     margin: 1rem 0 0 -4rem;
     padding: 0 2rem 0.5rem 4rem;
-    background-color: #ff8400;
+    /* background-color: #ff8400; */
   }
 }
 
