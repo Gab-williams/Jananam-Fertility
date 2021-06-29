@@ -1,42 +1,9 @@
 @import "./bootstrap.css";
 @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css";
 
-@font-face {
-  font-family: Sansita;
-  src: url(../fonts/Sansita/Sansita-Bold.ttf) format("ttf"),
-    url(../fonts/Sansita/Sansita-Bold.ttf) format("ttf");
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
+body {
+  font-family: "Sansita", sans-serif;
 }
-
-@font-face {
-  font-family: Sansita;
-  src: url(../fonts/Sansita/Sansita-Black.ttf) format("ttf"),
-    url(../fonts/Sansita/Sansita-Black.ttf) format("ttf");
-  font-style: normal;
-  font-weight: 700;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: Sansita;
-  src: url(../fonts/Sansita/Sansita-ExtraBold.ttf) format("ttf"),
-    url(../fonts/Sansita/Sansita-ExtraBold.ttf) format("ttf");
-  font-style: normal;
-  font-weight: 900;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: Sansita;
-  src: url(../fonts/Sansita/Sansita-Regular.ttf) format("ttf"),
-    url(../fonts/Sansita/Sansita-Regular.ttf) format("ttf");
-  font-style: normal;
-  font-weight: 400;
-  font-display: swap;
-}
-
 *,
 :after,
 :before {
