@@ -1,3 +1,4 @@
+<script type="text/javascript" src="jquery.js"></script>;
 !(function (t) {
   function e(e) {
     for (
